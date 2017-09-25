@@ -9,3 +9,5 @@ Express with Passport and Sequelize MySql database
 <li>Login url <b>/signin</b></li>
 <li>Signup url <b>/signup</b></li>
 </ul>
+
+Tutorial in <a href="https://code.tutsplus.com/tutorials/using-passport-with-sequelize-and-mysql--cms-27537">here</a>

@@ -2,6 +2,7 @@
 Express with Passport and Sequelize MySql database
 
 <ul>
+  <li>Run <b>npm install</b></li>
 <li>Config database in <b>app/config/config.json</b></li>
 <li>To start server <b>npm start</b></li>
 <li>Access <b>http://localhost:5000</b></li>
